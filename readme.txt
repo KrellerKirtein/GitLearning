@@ -8,3 +8,4 @@ Creating a new branch is quick & simple.
 master change
 public change
 feature change
+feature change2
